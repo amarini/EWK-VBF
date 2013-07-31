@@ -33,3 +33,11 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
+#PYTHON
+__init__
+*pyc
+
+#editing
+.*~
+
